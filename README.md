@@ -6,6 +6,3 @@ The team responsible for this annotation is looking at a potential Machine Learn
 
 ML Problem:
 This is a binary classification problem of using review text, review title, star rating and date information to predict if a product is a Product Safety Issue (1) or Not Product Safety Issue (0). We will be using F1 score as our evaluation metric.
-
-Task and Deliverables:
-Use your model to predict on the public_test_features and submit to Leaderboard. You can submit as many times to Leaderboard as you like. Each student must individually submit.
